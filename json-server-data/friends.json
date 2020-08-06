@@ -1,0 +1,36 @@
+{
+  "allfriends": [
+    {
+      "name": "OBBf",
+      "since": -1,
+      "id": 1
+    },
+    {
+      "name": "ppf",
+      "since": 0,
+      "id": 2
+    },
+    {
+      "name": "ffff",
+      "since": 2,
+      "id": 3
+    },
+    {
+      "name": "reena",
+      "since": -1,
+      "id": 5
+    },
+    {
+      "name": "ffff",
+      "since": 3,
+      "id": 6
+    }
+  ],
+  "allfriendsdetails": [
+    {
+      "name": "swathi",
+      "since": "4444",
+      "id": 1
+    }
+  ]
+}
